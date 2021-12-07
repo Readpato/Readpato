@@ -19,7 +19,7 @@ I am currently learning React.js and I'm looking forward to collaborate on open 
 
 <h4>Language and Tools</h4>
 <p align="left">
-<img height="25" src="https://github.com/Readpato/Readpato/blob/main/javascript.svg" align="center"><img height="25" src="https://github.com/Readpato/Readpato/blob/main/html5.svg" align="center"><img height="25" src="https://github.com/Readpato/Readpato/blob/main/css3.svg" align="center"><img height="25" src="https://github.com/Readpato/Readpato/blob/main/sass.svg" align="center">
+<img height="25" src="https://github.com/Readpato/Readpato/blob/main/javascript.svg" align="center"> <img height="25" src="https://github.com/Readpato/Readpato/blob/main/html5.svg" align="center"> <img height="25" src="https://github.com/Readpato/Readpato/blob/main/css3.svg" align="center">  <img height="25" src="https://github.com/Readpato/Readpato/blob/main/sass.svg" align="center">
 </p>
 
 #
