@@ -14,8 +14,9 @@ I am currently learning React.js and I'm looking forward to collaborate on open 
 
 - <a href="https://github.com/Readpato/EnCoWebPage">EnCo - Energia Collettiva Webpage</a>
 
-
 - <a href="https://github.com/Readpato/bookingSystem">Booking System</a>
+
+- <a href="https://github.com/Readpato/game-simon-says">Simon Says Game</a>
 
 <h4>Language and Tools</h4>
 <p align="left">
