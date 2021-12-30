@@ -1,7 +1,7 @@
-# [![Header](https://github.com/Readpato/Readpato/blob/main/PatrickRaedler-JuniorDevHeader.png "Header")](https://github.com/Readpato)
+# [![Header](https://github.com/Readpato/Readpato/blob/main/readme-images/patrick-raedler-jr-developer.png "Header")](https://github.com/Readpato)
 
 <p align="center">
-<a href="https://twitter.com/patoraedler"><img height="25" src="https://github.com/Readpato/Readpato/blob/main/twitter.png" align="center"></a> <a href="https://www.linkedin.com/in/patrickraedler/"><img height="25" src="https://github.com/Readpato/Readpato/blob/main/linkedin.png" align="center"></a>
+<a href="https://twitter.com/patoraedler"><img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/twitter.png" align="center"></a> <a href="https://www.linkedin.com/in/patrickraedler/"><img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/linkedin.png" align="center"></a>
 </p>
 
 ### Hello there! 👋
@@ -22,7 +22,7 @@ I am currently looking forwards to learn React.js to collaborate on open source!
 
 <h4>Language and Tools</h4>
 <p align="left">
-<img height="25" src="https://github.com/Readpato/Readpato/blob/main/javascript.svg" align="center"> <img height="25" src="https://github.com/Readpato/Readpato/blob/main/html5.svg" align="center"> <img height="25" src="https://github.com/Readpato/Readpato/blob/main/css3.svg" align="center">  <img height="25" src="https://github.com/Readpato/Readpato/blob/main/sass.svg" align="center">
+<img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/javascript.svg" align="center"> <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/html5.svg" align="center"> <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/css3.svg" align="center">  <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/sass.svg" align="center">
 </p>
 
 #
