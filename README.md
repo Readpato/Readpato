@@ -8,7 +8,7 @@
 
 My name is Patrick Raedler and I am a self taught Junior Front End Developer.
 
-I am currently learning React.js and I'm looking forward to collaborate on open source!
+I am currently looking forwards to learn React.js to collaborate on open source!
 
 <h4>📕 My Latest Projects</h4>
 
@@ -17,6 +17,8 @@ I am currently learning React.js and I'm looking forward to collaborate on open 
 - <a href="https://github.com/Readpato/bookingSystem">Booking System</a>
 
 - <a href="https://github.com/Readpato/game-simon-says">Simon Says Game</a>
+
+- <a href="https://github.com/Readpato/memotest-game">Memotest Game</a>
 
 <h4>Language and Tools</h4>
 <p align="left">
@@ -32,4 +34,3 @@ I am currently learning React.js and I'm looking forward to collaborate on open 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readpato&layout=compact&theme=gruvbox&show_icons=true" />
 </a>
   <p>
-    
