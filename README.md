@@ -29,7 +29,7 @@ I am currently looking forwards to learn React.js to collaborate on open source!
 
 <p align="center">
 <a href="https://github.com/Readpato">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=readpato&count_private=true&theme=gruvbox&show_icons=true&hide=issues,contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=readpato&count_private=true&theme=gruvbox&show_icons=true&hide=issues,contribs&include_all_commits=true" />
 </a><a href="https://github.com/Readpato">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readpato&layout=compact&theme=gruvbox&show_icons=true" />
 </a>
