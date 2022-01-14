@@ -4,13 +4,18 @@
 <a href="https://twitter.com/patoraedler"><img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/twitter.png" align="center"></a> <a href="https://www.linkedin.com/in/patrickraedler/"><img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/linkedin.png" align="center"></a>
 </p>
 
-### Hello there! 👋
+## Hello there! 👋
 
 My name is Patrick Raedler and I am a self taught Software Developer.
 
-I am currently looking forwards to learn React.js to collaborate on open source!
+## What i'm up to
 
-<h4>📕 My Latest Projects</h4>
+- 🔭 I’m currently working @ Energia Collettiva and personal projects.
+- 🌱 I’m currently working with [JavaScript](https://www.javascript.com/).
+- :bulb: Want to learn React [React](https://reactjs.org/).
+- 💬 Talk to me about Programming, Fantasy books, Food and Memes :)
+
+## 📕 My Latest Projects
 
 - <a href="https://github.com/Readpato/EnCoWebPage">EnCo - Energia Collettiva Webpage</a>
 
@@ -20,7 +25,7 @@ I am currently looking forwards to learn React.js to collaborate on open source!
 
 - <a href="https://github.com/Readpato/memotest-game">Memotest Game</a>
 
-<h4>Language and Tools</h4>
+## Language and Tools 
 <p align="left">
 <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/javascript.svg" align="center"> <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/html5.svg" align="center"> <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/css3.svg" align="center">  <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/sass.svg" align="center">
 </p>
