@@ -6,7 +6,7 @@
 
 ### Hello there! 👋
 
-My name is Patrick Raedler and I am a self taught Junior Front End Developer.
+My name is Patrick Raedler and I am a self taught Software Developer.
 
 I am currently looking forwards to learn React.js to collaborate on open source!
 
