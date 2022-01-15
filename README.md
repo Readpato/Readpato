@@ -1,4 +1,4 @@
-# [![Header](https://github.com/Readpato/Readpato/blob/main/readme-images/patrickraedler-developer-banner.png "Header")](https://github.com/Readpato)
+# [![Header](https://github.com/Readpato/Readpato/blob/main/readme-images/patrickraedler-banner.png"Header")](https://github.com/Readpato)
 
 <p align="center">
 <a href="https://twitter.com/patoraedler"><img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/twitter.png" align="center"></a> <a href="https://www.linkedin.com/in/patrickraedler/"><img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/linkedin.png" align="center"></a>
