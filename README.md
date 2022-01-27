@@ -8,11 +8,11 @@
 
 My name is Patrick Raedler and I am a self taught Software Developer.
 
-## What i'm up to
+## What I am up to
 
 - 🔭 I’m currently working @ Energia Collettiva and personal projects.
 - :computer: I’m currently working with [JavaScript](https://www.javascript.com/).
-- 🌱 I Want to learn [React](https://reactjs.org/).
+- 🌱 I want to learn [React](https://reactjs.org/).
 - 💬 Talk to me about Programming, Fantasy books, Food and Memes :)
 
 ## 📕 My Latest Projects
@@ -21,11 +21,13 @@ My name is Patrick Raedler and I am a self taught Software Developer.
 
 - <a href="https://github.com/Readpato/bookingSystem">Booking System</a>
 
+- <a href="https://github.com/Readpato/pokedex">Pokedex</a>
+
+- <a href="https://github.com/Readpato/exchange-rates-webpage">Exchange Rates Webpage</a>
+
 - <a href="https://github.com/Readpato/game-simon-says">Simon Says Game</a>
 
 - <a href="https://github.com/Readpato/memotest-game">Memotest Game</a>
-
-- <a href="https://github.com/Readpato/exchange-rates-webpage">Exchange Rates Webpage</a>
 
 ## Language and Tools 
 <p align="left">
