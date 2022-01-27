@@ -40,6 +40,6 @@ My name is Patrick Raedler and I am a self taught Software Developer.
 <a href="https://github.com/Readpato">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=readpato&theme=gruvbox&show_icons=true" />
 </a><a href="https://github.com/Readpato">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readpato&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readpato&layout=compact&theme=gruvbox"/>
 </a>
   <p>
