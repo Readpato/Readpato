@@ -38,8 +38,8 @@ My name is Patrick Raedler and I am a self taught Software Developer.
 
 <p align="center">
 <a href="https://github.com/Readpato">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=readpato&count_private=true&theme=gruvbox&show_icons=true&hide=issues,contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=readpato&theme=gruvbox&show_icons=true" />
 </a><a href="https://github.com/Readpato">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readpato&layout=compact&theme=gruvbox&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readpato&layout=compact"/>
 </a>
   <p>
