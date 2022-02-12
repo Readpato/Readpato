@@ -12,7 +12,7 @@ My name is Patrick Raedler and I am a self taught Software Developer.
 
 - 🔭 I’m currently working @ Energia Collettiva and personal projects.
 - :computer: I’m currently working with [JavaScript](https://www.javascript.com/).
-- 🌱 I want to learn [React](https://reactjs.org/).
+- 🌱 I want to learn [React](https://reactjs.org/) and [Vue](https://vuejs.org/) 
 - 💬 Talk to me about Programming, Fantasy books, Food and Memes :)
 
 ## 📕 My Latest Projects
