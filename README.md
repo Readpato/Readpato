@@ -17,19 +17,19 @@ My name is Patrick Raedler and I am a self taught Software Developer.
 
 ## 📕 My Latest Projects
 
-- <a href="https://github.com/Readpato/EnCoWebPage">EnCo - Energia Collettiva Webpage</a>
+- <a href="https://github.com/Readpato/EnCoWebPage" target="_blank">EnCo - Energia Collettiva Webpage</a>
 
-- <a href="https://github.com/Readpato/bookingSystem">Booking System</a>
+- <a href="https://github.com/Readpato/bookingSystem" target="_blank">Booking System</a>
 
-- <a href="https://readpato.github.io/pokedex/">Pokedex</a>
+- <a href="https://readpato.github.io/pokedex/" target="_blank">Pokedex</a>
 
-- <a href="https://readpato.github.io/exchange-rates-webpage/">Exchange Rates Webpage</a>
+- <a href="https://readpato.github.io/exchange-rates-webpage/" target="_blank">Exchange Rates Webpage</a>
 
-- <a href="https://readpato.github.io/random-user-generator/">Random User Generator</a>
+- <a href="https://readpato.github.io/random-user-generator/" target="_blank">Random User Generator</a>
 
-- <a href="https://readpato.github.io/game-simon-says/">Simon Says Game</a>
+- <a href="https://readpato.github.io/game-simon-says/" target="_blank">Simon Says Game</a>
 
-- <a href="https://readpato.github.io/memotest-game/">Memotest Game</a>
+- <a href="https://readpato.github.io/memotest-game/" target="_blank">Memotest Game</a>
 
 ## Language and Tools 
 <p align="left">
