@@ -10,7 +10,7 @@ My name is Patrick Raedler and I am a self taught Software Developer.
 
 ## What I am up to
 
-- 🔭 I’m currently working @ Energia Collettiva and personal projects.
+- 🔭 I’m currently working on my personal projects and as a freelancer @ Energia Collettiva.
 - :computer: I’m currently working with [Vue](https://vuejs.org/).
 - 🌱 I want to learn [React](https://reactjs.org/).
 - 💬 Talk to me about programming, fantasy books, food and memes :)
@@ -31,7 +31,7 @@ My name is Patrick Raedler and I am a self taught Software Developer.
 
 - <a href="https://readpato.github.io/memotest-game/">Memotest Game</a>
 
-## Language and Tools 
+## Languages and Tools 
 <p align="left">
 <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/javascript.svg" align="center"> <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/vue.svg" align="center"> <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/html5.svg" align="center"> <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/css3.svg" align="center">  <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/sass.svg" align="center">
 </p>
