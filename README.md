@@ -19,15 +19,17 @@ My name is Patrick Raedler and I am a self taught Software Developer.
 
 - <a href="https://github.com/Readpato/EnCoWebPage">EnCo - Energia Collettiva Webpage</a>
 
-- <a href="https://github.com/Readpato/bookingSystem">Booking System</a>
+- <a href="https://readpato.github.io/vue-todo-list/">Todo List App</a>
+
+- <a href="https://readpato.github.io/random-user-generator/">Random User Generator</a>
 
 - <a href="https://readpato.github.io/pokedex/">Pokedex</a>
 
 - <a href="https://readpato.github.io/exchange-rates-webpage/">Exchange Rates Webpage</a>
 
-- <a href="https://readpato.github.io/random-user-generator/">Random User Generator</a>
-
 - <a href="https://readpato.github.io/game-simon-says/">Simon Says Game</a>
+
+- <a href="https://github.com/Readpato/bookingSystem">Booking System</a>
 
 - <a href="https://readpato.github.io/memotest-game/">Memotest Game</a>
 
