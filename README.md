@@ -1,7 +1,12 @@
 # [![Header](https://github.com/Readpato/Readpato/blob/main/readme-images/patrickraedler-banner.png "Header")](https://github.com/Readpato)
 
 <p align="center">
-<a href="https://twitter.com/patoraedler"><img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/twitter.png" align="center"></a> <a href="https://www.linkedin.com/in/patrickraedler/"><img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/linkedin.png" align="center"></a>
+  <a href="https://twitter.com/patoraedler">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" align="center" height="30" width="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/patrickraedler/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="30" width="30" />
+  </a>
 </p>
 
 ## Hello there! 👋
