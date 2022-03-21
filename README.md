@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://twitter.com/patoraedler">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" align="center" height="30" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" align="center" height="35" width="35"/>
   </a>
   <a href="https://www.linkedin.com/in/patrickraedler/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="35" width="35" />
   </a>
 </p>
 
@@ -48,13 +48,12 @@ My name is Patrick Raedler and I am a self taught Software Developer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="35" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35" width="35" />
-  
 </p>
 
 #
 
 <p align="center">
-<a href="https://github.com/Readpato">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readpato&layout=compact&theme=gruvbox"/>
-</a>
-  <p>
+  <a href="https://github.com/Readpato">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readpato&layout=compact&theme=gruvbox"/>
+  </a>
+<p>
