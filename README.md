@@ -35,7 +35,7 @@ My name is Patrick Raedler and I am a self taught Software Developer.
 
 ## Languages and Tools 
 <p align="left">
-<img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/javascript.svg" align="center"> <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/vue.svg" align="center"> <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/html5.svg" align="center"> <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/css3.svg" align="center">  <img height="25" src="https://github.com/Readpato/Readpato/blob/main/readme-images/sass.svg" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" width="35" />
 </p>
 
