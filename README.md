@@ -15,7 +15,7 @@ My name is Patrick Raedler and I am a self taught Software Developer.
 
 ## What I am up to
 
-- 🔭 I’m currently working on my personal projects and as a freelancer @ Energia Collettiva.
+- 🔭 I’m currently working on my personal projects and Software Developer for Heveloon.
 - :computer: I’m currently working with [Vue](https://vuejs.org/).
 - 🌱 I want to learn [React](https://reactjs.org/).
 - 💬 Talk to me about programming, fantasy books, food and memes :)
