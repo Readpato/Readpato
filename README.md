@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-#### My name is Patrick Raedler and I am a self taught software developer.
+#### My name is Patrick Raedler and I am a self taught software developer
 
 ##### BIO
 - :office: I’m currently working on my personal projects and in Heveloon LTD as a Junior Frontend Developer
@@ -10,7 +10,6 @@
 - 💬 Ping me about Vue, fantasy books, VSCode themes and fonts
 - :mailbox: Reach me: [twitter.com/caneco](https://twitter.com/caneco) and [linkedin.com/patrickraedler](https://www.linkedin.com/in/patrickraedler/)
 - :game_die: Fun fact: I am a Dungeon Master of Dungeons and Dragons
-- :
 
 ##### MY LATEST PROJECTS
 - <a href="https://readpato.github.io/vue-todo-list/">Todo List App</a>
