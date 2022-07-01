@@ -1,27 +1,34 @@
-# Hello there! 👋
+##### Hello there! 👋
 
 My name is Patrick Raedler and I am a self taught Software Developer.
 
-# Bio
+###### Bio
 
 :office: I’m currently working on my personal projects and in Heveloon LTD as a Junior Frontend Developer
+
 :computer: I’m currently working with [Vue](https://vuejs.org/) and [Nuxt](https://v3.nuxtjs.org/)
+
 :hearts: I really love testing my apps with [Cypress](https://www.cypress.io/)
+
 🌱 I want to learn [Svelte](https://svelte.dev/) and [Laravel](https://laravel.com/)
+
 💬 Ping me about Vue, fantasy books, food and memes.
+
 :mailbox: Reach me: twitter.com/patoraedler
+
 :game_die: Fun fact: I really love Dungeons and Dragons
 
 
-# 📕 My Latest Projects
+##### 📕 My Latest Projects
 
 :small_orange_diamond: <a href="https://readpato.github.io/vue-todo-list/">Todo List App</a>
+
 :small_blue_diamond: <a href="https://readpato.github.io/random-user-generator/">Random User Generator</a>
 
-# Languages and Tools 
+##### Languages and Tools 
 <p align="left">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/simpleicons.svg" />
+<img height="32" width="32" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
+<img height="32" width="32" color="white" src="https://unpkg.com/simple-icons@v7/icons/simpleicons.svg" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" width="35" />
