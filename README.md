@@ -6,7 +6,7 @@
 - :office: I’m currently working on my personal projects and in Heveloon LTD as a Junior Frontend Developer
 - :computer: I’m currently working with [Vue](https://vuejs.org/) and [Nuxt](https://v3.nuxtjs.org/)
 - :hearts: I really love testing my apps with [Cypress](https://www.cypress.io/)
-- 🌱 I want to learn [Svelte](https://svelte.dev/) and [Laravel](https://laravel.com/)
+- 🌱 I want to learn [SolidJS](https://www.solidjs.com/) and [Laravel](https://laravel.com/)
 - 💬 Ping me about Vue, fantasy books, VSCode themes and fonts
 - :mailbox: Reach me: [twitter.com/patoraedler](https://twitter.com/patoraedler) and [linkedin.com/patrickraedler](https://www.linkedin.com/in/patrickraedler/)
 - :game_die: Fun fact: I am a Dungeon Master of Dungeons and Dragons
