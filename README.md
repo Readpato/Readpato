@@ -3,7 +3,7 @@
 #### My name is Patrick Raedler and I am a self taught software developer
 
 ##### BIO
-- :office: I’m currently working on my personal projects and in Heveloon LTD as a Junior Frontend Developer
+- :office: I’m currently working on my personal projects and in MONOGRID as a Junior Frontend Developer
 - :computer: I’m currently working with [Vue](https://vuejs.org/) and [Nuxt](https://v3.nuxtjs.org/)
 - :hearts: I really love testing my apps with [Cypress](https://www.cypress.io/)
 - 🌱 I want to learn [Svelte](https://svelte.dev/), [SolidJS](https://www.solidjs.com/) and [Laravel](https://laravel.com/)
