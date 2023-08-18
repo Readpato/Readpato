@@ -8,7 +8,7 @@
 - :hearts: I really love testing my apps with [Cypress](https://www.cypress.io/)
 - 🌱 I want to learn [Svelte](https://svelte.dev/), [SolidJS](https://www.solidjs.com/) and [Laravel](https://laravel.com/)
 - 💬 Ping me about Vue, fantasy books, IDE themes and fonts
-- :mailbox: Reach me: [twitter.com/patoraedler](https://twitter.com/patoraedler) and [linkedin.com/patrickraedler](https://www.linkedin.com/in/patrickraedler/)
+- :mailbox: Reach me: [twitter.com/patoraedler](https://twitter.com/readpato) and [linkedin.com/patrickraedler](https://www.linkedin.com/in/patrickraedler/)
 - :game_die: Fun fact: I am a Dungeon Master of Dungeons and Dragons
 
 ##### MY LATEST PROJECTS
