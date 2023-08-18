@@ -4,9 +4,9 @@
 
 ##### BIO
 - :office: I’m currently working on my personal projects and at MONOGRID as a Junior Frontend Developer
-- :computer: I’m currently working with [Vue](https://vuejs.org/) and [Nuxt](https://v3.nuxtjs.org/) and [Neovim](https://neovim.io/)
+- :computer: I’m currently working with [Vue](https://vuejs.org/) and [Nuxt](https://v3.nuxtjs.org/)
 - :hearts: I really love testing my apps with [Cypress](https://www.cypress.io/)
-- 🌱 I want to learn [Svelte](https://svelte.dev/), [SolidJS](https://www.solidjs.com/) and [Laravel](https://laravel.com/)
+- 🌱 I want to learn [Svelte](https://svelte.dev/), [SolidJS](https://www.solidjs.com/) and [Playwright](https://playwright.dev/)
 - 💬 Ping me about Vue, fantasy books, IDE themes and fonts
 - :mailbox: Reach me: [twitter.com/readpato](https://twitter.com/readpato) and [linkedin.com/patrickraedler](https://www.linkedin.com/in/patrickraedler/)
 - :game_die: Fun fact: I am a Dungeon Master of Dungeons and Dragons
