@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-My name is Patrick Raedler and I am a self-taught software developer
+My name is Patrick Raedler and I am a self-taught software engineer.
 
 #### BIO
 - 🏢 I’m working at [cubemos](https://cubemos.com/) as a Software Engineer. I'm also a core team member of [Schrödinger Hat](https://www.schrodinger-hat.it/).
