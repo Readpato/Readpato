@@ -1,10 +1,10 @@
 ## Hello there! 👋
 
-My name is Patrick Raedler and I am a self-taught software engineer.
+My name is Patrick Raedler and I am a self-taught Software Developer and an Open Source Contributor.
 
 #### BIO
-- 🏢 I’m working at [cubemos](https://cubemos.com/) as a Software Engineer. I'm also a Co-Founder of [Schrödinger Hat](https://www.schrodinger-hat.it/).
-- 💻 I love working with [Vue](https://vuejs.org/) and [Nuxt](https://nuxtjs.org/).
+- 🏢 I'm a Co-Founder of [Schrödinger Hat](https://schroedinger-hat.org/)
+- 💻 I love working with [Vue](https://vuejs.org/), [Nuxt](https://nuxtjs.org/) and [Neovim](https://neovim.io) (btw)
 - 📗 I am currently learning [Go](https://go.dev).
 - 🌱 I want to learn [Rust](https://rust-lang.org) and [Svelte](https://svelte.dev)
 - 📬 Reach me: [bsky.app/readpato](https://bsky.app/profile/readpato.dev) and [linkedin.com/patrickraedler](https://linkedin.com/in/patrickraedler/)
