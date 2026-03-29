@@ -5,5 +5,5 @@ My name is Patrick Raedler and I am a self-taught Software Developer :)
 #### BIO
 - 🏢 I'm a Co-Founder @ [Schrödinger Hat](https://schroedinger-hat.org/) non-profit
 - 💻 I love working with [Vue](https://vuejs.org/) and [Nuxt](https://nuxtjs.org/)
-- 📗 I am currently learning [Zig](https://go.dev)
+- 📗 I am currently learning [Zig]([https://go.dev](https://ziglang.org/))
 - 📬 Reach me: [bsky.app/readpato](https://bsky.app/profile/readpato.dev) and [linkedin.com/patrickraedler](https://linkedin.com/in/patrickraedler/)
